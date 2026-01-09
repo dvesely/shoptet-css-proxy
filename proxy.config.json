@@ -1,0 +1,8 @@
+{
+  "productionUrl": "https://shoptet.cz",
+  "port": 3000,
+  "cssMappings": {
+    "/user/documents/styles.header.css": "./src/header/style.css",
+    "/user/documents/styles.footer.css": "./src/footer/style.css"
+  }
+}
