@@ -1,5 +1,4 @@
 # Development files
-webpack.config.js
 proxy-server.js
 config.json
 proxy.config.json

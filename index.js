@@ -79,5 +79,5 @@ export default {
   CSSProxyServer,
   createProxyServer,
   startFromConfig,
-  loadConfig
+  loadConfig,
 };
