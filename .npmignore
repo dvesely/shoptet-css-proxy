@@ -1,0 +1,51 @@
+# Development files
+webpack.config.js
+proxy-server.js
+config.json
+proxy.config.json
+
+# Examples
+examples/
+examples/**/*
+
+# Build artifacts
+dist/
+build/
+*.log
+
+# Development dependencies
+node_modules/
+yarn.lock
+package-lock.json
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test files
+test/
+tests/
+__tests__/
+*.test.js
+*.spec.js
+coverage/
+
+# Documentation (keep README.md)
+docs/
+*.md
+!README.md
+
+# Misc
+.env
+.env.local
+*.pem
+*.key
