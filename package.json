@@ -1,6 +1,6 @@
 {
   "name": "shoptet-css-proxy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A development proxy server that intercepts CSS requests and serves local CSS files while proxying other requests to a production server",
   "main": "index.js",
   "type": "module",
